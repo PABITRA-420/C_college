@@ -21,8 +21,11 @@ Mathematical Logic Programs
 📂 Example Program Files
 
 power2.c – Calculates power of 2
+
 print.c – Simple print statement program
+
 sumofdigit.c – Finds the sum of digits of a number
+
 More files included in the project
 
 
